@@ -1,4 +1,4 @@
-# GreenHub-Crack
+# GreenHub-Crack by LXZY
 
 这个是GreenHub的app.asar和取码器
 
@@ -6,7 +6,7 @@
 
 把app.asar替换
 
-然后输错激活码，错时应该会弹出一个窗口，上边是Auth
+然后输错激活码，错时应该会弹出一个窗口，上边是Auth（格式得正确）
 
 编辑get.py，把auth（"Authorization": "Basic XXXXX"）这一段替换
 
