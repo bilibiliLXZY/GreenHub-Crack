@@ -1,6 +1,6 @@
 # GreenHub-Crack by LXZY
 
-greenhubtk.ga
+greenhubtx.ga
 
 Just run the get.exe and you'll get many codes.
 
