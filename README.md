@@ -1,5 +1,5 @@
 # GreenHub-ActiveCode-Generate
-©bilibiliLXZY
+©bilibiliLXZY, all rights reserved.
 
 Just click to run.
 
