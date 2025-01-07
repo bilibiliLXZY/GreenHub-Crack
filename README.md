@@ -1,4 +1,4 @@
-# GreenHub-ActiveCode-Generate
+# GreenHub-ActiveCode-Generator
 ©bilibiliLXZY, all rights reserved.
 
 Just click to run.
