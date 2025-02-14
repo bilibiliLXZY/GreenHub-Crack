@@ -1,6 +1,8 @@
 # GreenHub-ActiveCode-Generator
 ©bilibiliLXZY, all rights reserved.
 
+Absolutely no backdoor!
+
 Just click to run.
 
 Internet connection required.
