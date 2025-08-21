@@ -1,4 +1,4 @@
-# GreenHub-ActiveCode-Generator
+# GreenHub-ActiveCode-Generator & GreenHub-Config_Patch
 ©bilibiliLXZY, all rights reserved.
 
 Absolutely no backdoor!
