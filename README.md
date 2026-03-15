@@ -1,14 +1,8 @@
-# GreenHub-ActiveCode-Generator(OUTDATED) & GreenHub-Config-Patch
-©bilibiliLXZY, all rights reserved.
+# GreenHub-ActiveCode-Generator激活码生成器(OUTDATED已过时无法使用) & GreenHub-Config-Patch配置文件补丁
+©bilibiliLXZY, all rights reserved. 由LXZY制作
 
-Absolutely no backdoor!
+Absolutely no backdoor! 无后门
 
-Just click to run.
+Used in GreenHub UnlockTool
 
-Internet connection required.
-
-Rewrited and renamed. 
-
-Source code is all written by me.
-
-Used in the GreenHub UnlockTool.
+Thanks for starring my project!! 感谢给五角星！！
